@@ -12,4 +12,5 @@ data class Book(
         TO_READ,
         READ,
     }
+
 }
